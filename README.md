@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="25"/>
 
-<!--
-**dltuananh123/dltuananh123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m [**pr3da**](), a software engineering student and junior frontend dev in Vietnam. I like exploring technologies, building something from scratch and keeping things simple.
 
-Here are some ideas to get you started:
+**These days I’m focused on:**
+- Self learning to improve core knowledge
+- UI components with subtle motion
+- Small, thoughtful projects with polish
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+%% Some stuff I built:
+
+
+---
+ %%
+**Fun Facts:**
+
+* I'm a fan of coffee
+* Never miss any Manchester United matches
+* **Hobbies:** enjoy playing soccer and video games, even though I’m pretty bad at gaming
