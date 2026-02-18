@@ -9,11 +9,11 @@ I’m [**pr3da**](), a software engineering student and junior frontend dev in V
 
 ---
 
-%% Some stuff I built:
+<!--**Some stuff I built:**
 
 
 ---
- %%
+-->
 **Fun Facts:**
 
 * I'm a fan of coffee
